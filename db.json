@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "id": "10",
+      "caption": "RDX",
+      "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg",
+      "url": "https://www.youtube.com/embed/NJjDRnE-5_4"
+    },
+    {
+      "id": "9",
+      "caption": "Karikku Ripper",
+      "thumbnail": "https://i.ytimg.com/vi/OER5OC7UENQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/OER5OC7UENQ"
+    }
+  ],
+  "categories": [
+    {
+      "id": "10",
+      "name": "trailer",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "RDX",
+          "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg",
+          "url": "https://www.youtube.com/embed/NJjDRnE-5_4"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "shortfilm",
+      "allVideos": [
+        {
+          "id": "9",
+          "caption": "Karikku Ripper",
+          "thumbnail": "https://i.ytimg.com/vi/OER5OC7UENQ/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/OER5OC7UENQ"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/Po3jStA673E",
+      "date": "27-08-2023"
+    },
+    {
+      "id": "1956cf69-2df6-422d-bb72-4a454646294c",
+      "categoryName": "RDX",
+      "url": "https://www.youtube.com/embed/NJjDRnE-5_4",
+      "date": "2023-12-12T05:29:40.452Z"
+    },
+    {
+      "id": "3d530a1d-8107-4c59-9568-44c6a3528813",
+      "categoryName": "LEO",
+      "url": "https://www.youtube.com/embed/Po3jStA673E",
+      "date": "2023-12-12T05:30:12.347Z"
+    },
+    {
+      "id": "bfcf8edf-3c02-4d51-9e1b-2afa5d824599",
+      "categoryName": "LEO",
+      "url": "https://www.youtube.com/embed/Po3jStA673E",
+      "date": "2023-12-12T05:30:56.450Z"
+    },
+    {
+      "id": "8a06a4d5-6143-4eaa-9a2b-fbdb54e4e678",
+      "categoryName": "LEO",
+      "url": "https://www.youtube.com/embed/Po3jStA673E",
+      "date": "2023-12-13T02:58:41.222Z"
+    },
+    {
+      "id": "37256307-5c90-4441-8bad-566affa440c6",
+      "categoryName": "LEO",
+      "url": "https://www.youtube.com/embed/Po3jStA673E",
+      "date": "2023-12-13T02:58:49.580Z"
+    },
+    {
+      "id": "699d5ca7-ee09-47e3-a02e-75288f5162d6",
+      "categoryName": "RDX",
+      "url": "https://www.youtube.com/embed/NJjDRnE-5_4",
+      "date": "2023-12-13T03:01:55.643Z"
+    },
+    {
+      "id": "8bd1b8fa-88f8-495a-8f95-38850f54d720",
+      "categoryName": "KAITHI",
+      "url": "https://www.youtube.com/embed/0m7Fp8ZviQE",
+      "date": "2023-12-13T03:35:09.378Z"
+    },
+    {
+      "id": "017afdfd-9258-4152-805c-004d4941ad0c",
+      "categoryName": "Karikku Ripper",
+      "url": "https://www.youtube.com/embed/OER5OC7UENQ",
+      "date": "2023-12-13T03:45:56.130Z"
+    },
+    {
+      "id": "a8000a30-bc08-4591-852d-38d4582eacf3",
+      "categoryName": "LEO",
+      "url": "https://www.youtube.com/embed/Po3jStA673E",
+      "date": "2023-12-14T04:16:09.141Z"
+    },
+    {
+      "id": "d2cf0919-96d7-473d-8622-02664a23b852",
+      "categoryName": "LEO",
+      "url": "https://www.youtube.com/embed/Po3jStA673E",
+      "date": "2023-12-14T04:16:18.401Z"
+    }
+  ]
+}
